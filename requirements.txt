@@ -1,0 +1,31 @@
+# ── Deep Learning ────────────────────────────────────────────────
+# Install PyTorch separately with CUDA:
+# pip install torch==2.6.0+cu124 torchvision==0.21.0+cu124 torchaudio==2.6.0+cu124 \
+#   --index-url https://download.pytorch.org/whl/cu124
+
+transformers==5.14.1
+tokenizers==0.22.2
+safetensors==0.8.0
+huggingface-hub==1.24.0
+segmentation-models-pytorch
+
+# ── Image / Augmentation ─────────────────────────────────────────
+albumentations==2.0.8
+opencv-python==5.0.0.93
+
+# ── Data & Visualization ─────────────────────────────────────────
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+pyyaml
+rich
+
+# ── GIS / Remote Sensing (install via conda-forge) ───────────────
+# conda install -c conda-forge rasterio fiona geopandas gdal pyproj shapely
+rasterio
+fiona
+geopandas
+shapely
+pyproj

@@ -1,0 +1,8 @@
+{
+  "optimal_threshold": 0.49,
+  "f1": 0.9206222372114488,
+  "precision": 0.9145876444465564,
+  "recall": 0.9267380065700214,
+  "source_checkpoint": "seformer_model_best.pth",
+  "source_epoch": 58
+}

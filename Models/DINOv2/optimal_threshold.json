@@ -1,0 +1,8 @@
+{
+  "optimal_threshold": 0.46,
+  "f1": 0.9113437170974342,
+  "precision": 0.8920079763778574,
+  "recall": 0.9315373435746596,
+  "source_checkpoint": "Dino_model_best.pth",
+  "source_epoch": 23
+}

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model Weights (too large for GitHub — use Git LFS or cloud storage)
+*.pth
+*.pt
+*.bin
+*.safetensors
+checkpoints/
+saved_models/
+
+# Large Data Files (use Git LFS or external storage)
+data/raw_scenes/
+data/images/
+data/masks/
+*.tif
+*.tiff
+*.geotiff
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+runs/
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+tmp/

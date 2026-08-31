@@ -1,0 +1,56 @@
+Epoch:1 | time:209.8s | loss:0.7412 | val_loss:0.6664 | iou:0.5275 | val_iou:0.6594 | f1:0.6907 | val_f1:0.7948 | dice:0.6907 | val_dice:0.7948
+Epoch:2 | time:19.3s | loss:0.4888 | val_loss:0.5620 | iou:0.6753 | val_iou:0.7126 | f1:0.8062 | val_f1:0.8322 | dice:0.8062 | val_dice:0.8322
+Epoch:3 | time:20.1s | loss:0.4030 | val_loss:0.5197 | iou:0.7271 | val_iou:0.7441 | f1:0.8420 | val_f1:0.8533 | dice:0.8420 | val_dice:0.8533
+Epoch:4 | time:19.2s | loss:0.3639 | val_loss:0.5070 | iou:0.7481 | val_iou:0.7474 | f1:0.8559 | val_f1:0.8555 | dice:0.8559 | val_dice:0.8555
+Epoch:5 | time:19.3s | loss:0.3379 | val_loss:0.4779 | iou:0.7674 | val_iou:0.7743 | f1:0.8684 | val_f1:0.8728 | dice:0.8684 | val_dice:0.8728
+Epoch:6 | time:19.5s | loss:0.3163 | val_loss:0.4527 | iou:0.7780 | val_iou:0.7897 | f1:0.8751 | val_f1:0.8825 | dice:0.8751 | val_dice:0.8825
+Epoch:7 | time:19.2s | loss:0.2998 | val_loss:0.4397 | iou:0.7921 | val_iou:0.8049 | f1:0.8840 | val_f1:0.8919 | dice:0.8840 | val_dice:0.8919
+Epoch:8 | time:19.5s | loss:0.2799 | val_loss:0.4406 | iou:0.8024 | val_iou:0.8042 | f1:0.8903 | val_f1:0.8915 | dice:0.8903 | val_dice:0.8915
+Epoch:9 | time:19.6s | loss:0.2751 | val_loss:0.4343 | iou:0.8050 | val_iou:0.8078 | f1:0.8920 | val_f1:0.8937 | dice:0.8920 | val_dice:0.8937
+Epoch:10 | time:19.9s | loss:0.2714 | val_loss:0.4506 | iou:0.8079 | val_iou:0.7959 | f1:0.8938 | val_f1:0.8864 | dice:0.8938 | val_dice:0.8864
+Epoch:11 | time:19.5s | loss:0.2628 | val_loss:0.4277 | iou:0.8126 | val_iou:0.8112 | f1:0.8966 | val_f1:0.8957 | dice:0.8966 | val_dice:0.8957
+Epoch:12 | time:19.0s | loss:0.2565 | val_loss:0.4286 | iou:0.8158 | val_iou:0.8135 | f1:0.8986 | val_f1:0.8972 | dice:0.8986 | val_dice:0.8972
+Epoch:13 | time:19.5s | loss:0.2553 | val_loss:0.4171 | iou:0.8169 | val_iou:0.8246 | f1:0.8993 | val_f1:0.9039 | dice:0.8993 | val_dice:0.9039
+Epoch:14 | time:20.0s | loss:0.2496 | val_loss:0.4224 | iou:0.8210 | val_iou:0.8205 | f1:0.9017 | val_f1:0.9014 | dice:0.9017 | val_dice:0.9014
+Epoch:15 | time:19.5s | loss:0.2477 | val_loss:0.4678 | iou:0.8220 | val_iou:0.7791 | f1:0.9023 | val_f1:0.8758 | dice:0.9023 | val_dice:0.8758
+Epoch:16 | time:19.2s | loss:0.2456 | val_loss:0.4245 | iou:0.8244 | val_iou:0.8197 | f1:0.9038 | val_f1:0.9009 | dice:0.9038 | val_dice:0.9009
+Epoch:17 | time:20.0s | loss:0.2375 | val_loss:0.4281 | iou:0.8281 | val_iou:0.8156 | f1:0.9059 | val_f1:0.8984 | dice:0.9059 | val_dice:0.8984
+Epoch:18 | time:20.1s | loss:0.2339 | val_loss:0.4240 | iou:0.8303 | val_iou:0.8143 | f1:0.9073 | val_f1:0.8976 | dice:0.9073 | val_dice:0.8976
+Epoch:19 | time:19.0s | loss:0.2333 | val_loss:0.4152 | iou:0.8314 | val_iou:0.8222 | f1:0.9079 | val_f1:0.9024 | dice:0.9079 | val_dice:0.9024
+Epoch:20 | time:19.1s | loss:0.2293 | val_loss:0.4214 | iou:0.8338 | val_iou:0.8167 | f1:0.9093 | val_f1:0.8991 | dice:0.9093 | val_dice:0.8991
+Epoch:21 | time:19.4s | loss:0.2260 | val_loss:0.4108 | iou:0.8346 | val_iou:0.8284 | f1:0.9099 | val_f1:0.9061 | dice:0.9099 | val_dice:0.9061
+Epoch:22 | time:19.7s | loss:0.2223 | val_loss:0.4099 | iou:0.8377 | val_iou:0.8318 | f1:0.9117 | val_f1:0.9082 | dice:0.9117 | val_dice:0.9082
+Epoch:23 | time:19.8s | loss:0.2209 | val_loss:0.4019 | iou:0.8384 | val_iou:0.8369 | f1:0.9121 | val_f1:0.9112 | dice:0.9121 | val_dice:0.9112
+Epoch:24 | time:20.9s | loss:0.2207 | val_loss:0.4063 | iou:0.8398 | val_iou:0.8348 | f1:0.9129 | val_f1:0.9100 | dice:0.9129 | val_dice:0.9100
+Epoch:25 | time:21.2s | loss:0.2222 | val_loss:0.4090 | iou:0.8389 | val_iou:0.8324 | f1:0.9124 | val_f1:0.9085 | dice:0.9124 | val_dice:0.9085
+Epoch:26 | time:21.2s | loss:0.2147 | val_loss:0.4269 | iou:0.8432 | val_iou:0.8185 | f1:0.9149 | val_f1:0.9002 | dice:0.9149 | val_dice:0.9002
+Epoch:27 | time:20.9s | loss:0.2208 | val_loss:0.4047 | iou:0.8402 | val_iou:0.8346 | f1:0.9131 | val_f1:0.9098 | dice:0.9131 | val_dice:0.9099
+Epoch:28 | time:21.2s | loss:0.2158 | val_loss:0.4063 | iou:0.8415 | val_iou:0.8350 | f1:0.9139 | val_f1:0.9101 | dice:0.9139 | val_dice:0.9101
+Epoch:29 | time:21.6s | loss:0.2134 | val_loss:0.4080 | iou:0.8444 | val_iou:0.8332 | f1:0.9156 | val_f1:0.9090 | dice:0.9156 | val_dice:0.9090
+Epoch:30 | time:21.1s | loss:0.2151 | val_loss:0.4141 | iou:0.8438 | val_iou:0.8327 | f1:0.9153 | val_f1:0.9087 | dice:0.9153 | val_dice:0.9087
+Epoch:31 | time:21.8s | loss:0.2084 | val_loss:0.4118 | iou:0.8460 | val_iou:0.8300 | f1:0.9166 | val_f1:0.9071 | dice:0.9166 | val_dice:0.9071
+Epoch:32 | time:21.9s | loss:0.2070 | val_loss:0.4094 | iou:0.8470 | val_iou:0.8340 | f1:0.9172 | val_f1:0.9095 | dice:0.9172 | val_dice:0.9095
+Epoch:33 | time:21.7s | loss:0.2130 | val_loss:0.4095 | iou:0.8470 | val_iou:0.8296 | f1:0.9172 | val_f1:0.9069 | dice:0.9172 | val_dice:0.9069
+
+============================================================
+TRAINING SUMMARY
+============================================================
+Model type          : DINOv2 (backbone=D:\dinov2-small-local)
+Model name          : Dino_model
+Hardware            : GPU: NVIDIA RTX 6000 Ada Generation
+  PyTorch version    : 2.6.0+cu124
+  Python version     : 3.13.14
+  OS                 : Windows-11-10.0.26100-SP0
+  Compute device     : GPU (CUDA)
+  GPU name           : NVIDIA RTX 6000 Ada Generation
+  GPU count          : 1
+  Total VRAM         : 47.99 GB
+  Compute capability : 8.9
+  Multiprocessors    : 142
+  CUDA (build)       : 12.4
+  cuDNN version      : 90100
+  NVIDIA driver      : 596.36
+Epochs run          : 33
+Average epoch time  : 25.84s
+Total training time : 872.89s
+============================================================

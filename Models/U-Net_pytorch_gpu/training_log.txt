@@ -1,0 +1,51 @@
+Epoch:1 | time:45.1s | avg_epoch_time:45.1s | loss:0.6391 | val_loss:0.5677 | iou:0.4487 | val_iou:0.5275 | f1:0.6044 | val_f1:0.6762
+Epoch:2 | time:40.9s | avg_epoch_time:43.0s | loss:0.5640 | val_loss:0.5351 | iou:0.5010 | val_iou:0.5512 | f1:0.6563 | val_f1:0.6979
+Epoch:3 | time:44.7s | avg_epoch_time:43.6s | loss:0.5256 | val_loss:0.4752 | iou:0.5228 | val_iou:0.5823 | f1:0.6748 | val_f1:0.7233
+Epoch:4 | time:42.3s | avg_epoch_time:43.3s | loss:0.4852 | val_loss:0.4281 | iou:0.5492 | val_iou:0.6217 | f1:0.6988 | val_f1:0.7557
+Epoch:5 | time:39.1s | avg_epoch_time:42.4s | loss:0.4540 | val_loss:0.3731 | iou:0.5711 | val_iou:0.6575 | f1:0.7151 | val_f1:0.7853
+Epoch:6 | time:40.7s | avg_epoch_time:42.1s | loss:0.4155 | val_loss:0.3706 | iou:0.5990 | val_iou:0.6484 | f1:0.7390 | val_f1:0.7788
+Epoch:7 | time:39.2s | avg_epoch_time:41.7s | loss:0.4211 | val_loss:0.4263 | iou:0.6038 | val_iou:0.6294 | f1:0.7441 | val_f1:0.7626
+Epoch:8 | time:38.9s | avg_epoch_time:41.4s | loss:0.4650 | val_loss:0.4266 | iou:0.5911 | val_iou:0.6558 | f1:0.7341 | val_f1:0.7851
+Epoch:9 | time:39.3s | avg_epoch_time:41.1s | loss:0.4646 | val_loss:0.4088 | iou:0.5858 | val_iou:0.6229 | f1:0.7322 | val_f1:0.7600
+Epoch:10 | time:40.1s | avg_epoch_time:41.0s | loss:0.4706 | val_loss:0.4052 | iou:0.5716 | val_iou:0.6280 | f1:0.7179 | val_f1:0.7637
+Epoch:11 | time:40.1s | avg_epoch_time:40.9s | loss:0.4561 | val_loss:0.4095 | iou:0.5946 | val_iou:0.6469 | f1:0.7378 | val_f1:0.7791
+Epoch:12 | time:38.8s | avg_epoch_time:40.8s | loss:0.4517 | val_loss:0.3913 | iou:0.5910 | val_iou:0.6407 | f1:0.7347 | val_f1:0.7702
+Epoch:13 | time:38.9s | avg_epoch_time:40.6s | loss:0.4473 | val_loss:0.3840 | iou:0.5969 | val_iou:0.6780 | f1:0.7380 | val_f1:0.8026
+Epoch:14 | time:39.0s | avg_epoch_time:40.5s | loss:0.4343 | val_loss:0.3997 | iou:0.6131 | val_iou:0.6238 | f1:0.7508 | val_f1:0.7573
+Epoch:15 | time:38.6s | avg_epoch_time:40.4s | loss:0.4274 | val_loss:0.3752 | iou:0.6052 | val_iou:0.6748 | f1:0.7466 | val_f1:0.7956
+Epoch:16 | time:37.7s | avg_epoch_time:40.2s | loss:0.4230 | val_loss:0.3737 | iou:0.6256 | val_iou:0.6782 | f1:0.7613 | val_f1:0.7998
+Epoch:17 | time:38.2s | avg_epoch_time:40.1s | loss:0.4239 | val_loss:0.3608 | iou:0.6277 | val_iou:0.6901 | f1:0.7607 | val_f1:0.8118
+Epoch:18 | time:38.4s | avg_epoch_time:40.0s | loss:0.4262 | val_loss:0.3503 | iou:0.6227 | val_iou:0.6947 | f1:0.7600 | val_f1:0.8130
+Epoch:19 | time:38.2s | avg_epoch_time:39.9s | loss:0.4219 | val_loss:0.3507 | iou:0.6219 | val_iou:0.6824 | f1:0.7598 | val_f1:0.8025
+Epoch:20 | time:37.8s | avg_epoch_time:39.8s | loss:0.4247 | val_loss:0.3714 | iou:0.6227 | val_iou:0.6822 | f1:0.7584 | val_f1:0.8051
+Epoch:21 | time:39.1s | avg_epoch_time:39.8s | loss:0.4504 | val_loss:0.4428 | iou:0.5923 | val_iou:0.5879 | f1:0.7357 | val_f1:0.7318
+Epoch:22 | time:39.3s | avg_epoch_time:39.7s | loss:0.5234 | val_loss:0.4386 | iou:0.5117 | val_iou:0.5746 | f1:0.6647 | val_f1:0.7195
+Epoch:23 | time:38.3s | avg_epoch_time:39.7s | loss:0.4694 | val_loss:0.4078 | iou:0.5593 | val_iou:0.6283 | f1:0.7070 | val_f1:0.7606
+Epoch:24 | time:37.3s | avg_epoch_time:39.6s | loss:0.4640 | val_loss:0.3821 | iou:0.5685 | val_iou:0.6379 | f1:0.7147 | val_f1:0.7712
+Epoch:25 | time:38.2s | avg_epoch_time:39.5s | loss:0.4431 | val_loss:0.3749 | iou:0.5892 | val_iou:0.6558 | f1:0.7310 | val_f1:0.7842
+Epoch:26 | time:38.3s | avg_epoch_time:39.5s | loss:0.4288 | val_loss:0.3500 | iou:0.6031 | val_iou:0.6808 | f1:0.7439 | val_f1:0.8024
+Epoch:27 | time:38.1s | avg_epoch_time:39.4s | loss:0.4394 | val_loss:0.3602 | iou:0.5966 | val_iou:0.6776 | f1:0.7380 | val_f1:0.8000
+Epoch:28 | time:37.9s | avg_epoch_time:39.4s | loss:0.4326 | val_loss:0.3610 | iou:0.6054 | val_iou:0.6759 | f1:0.7445 | val_f1:0.7978
+
+============================================================
+TRAINING SUMMARY
+============================================================
+Model type          : UNet (ResNet50 + Attention U-Net + SE Block)
+Model name          : pytorch_model
+Hardware            : GPU: NVIDIA RTX 6000 Ada Generation
+  PyTorch version    : 2.6.0+cu124
+  Python version     : 3.13.14
+  OS                 : Windows-11-10.0.26100-SP0
+  Compute device     : GPU (CUDA)
+  GPU name           : NVIDIA RTX 6000 Ada Generation
+  GPU count          : 1
+  Total VRAM         : 47.99 GB
+  Compute capability : 8.9
+  Multiprocessors    : 142
+  CUDA (build)       : 12.4
+  cuDNN version      : 90100
+  NVIDIA driver      : 596.36
+Epochs run          : 28
+Average epoch time  : 39.4s
+Total training time : 0h 18m 24.4s (1104.4s)
+============================================================
