@@ -239,6 +239,17 @@ Inference was run on **5 unseen LISS-IV satellite scenes**. Yellow boundary poly
 > **DINOv2** showed conservative but highly accurate core detections.  
 > **U-Net** had higher feature counts (more false positives in bare land).
 
+
+## 🖼️ Visual Inference Results
+
+### DINOv2 — Scene V (256030181 | 03 Jan 2025)
+![DINOv2 Scene 5](assets/dinov2_scene5.png)
+
+### DINOv2 — Scene I (o256502421 | 17 Apr 2025)
+![DINOv2 Scene 1](assets/dinov2_scene1.png)
+
+> 🟡 Yellow outlines = predicted solar farm boundaries
+> 🔴 Red = vegetation | ⬛ Dark = water | ⬜ Grey = bare land / urban
 ---
 
 ## 🛠️ Installation
